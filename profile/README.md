@@ -77,7 +77,7 @@
 <div align="center">
     <a href="https://discord.gg/qwT7rkFa2v" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord"/></a>
     <a href="https://vk.com/kb_esports" target="_blank"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" height="35" alt="VK"/></a>
-    <a href="https://github.com/ВАША_ССЫЛКА" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/></a>
+    <a href="https://github.com/kronbars-esports" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/></a>
     <a href="https://t.me/kb_esports_tg" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram"/></a>
     <a href="https://www.twitch.tv/itmo_esports" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35" alt="Twitch"/></a>
     <a href="https://www.youtube.com/@kronbars_studio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="Youtube"/></a>
